@@ -1,5 +1,5 @@
 .Dictionary section {
-  background: #455d7a;
+  background: #edf7fa;
   padding: 30px;
   border-radius: 8px;
   box-shadow: 0 5px 15px rgb(0 0 0 / 60%);
@@ -16,9 +16,9 @@
 .Dictionary .hint {
   font-size: 13px;
   margin-top: 5px;
-  color: #455d7a;
+  color: #222831;
 }
 
 .Dictionary h4 {
-  color: #455d7a;
+  color: #222831;
 }
